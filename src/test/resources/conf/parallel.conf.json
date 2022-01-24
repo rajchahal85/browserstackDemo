@@ -1,7 +1,7 @@
 {
   "server": "hub-cloud.browserstack.com",
-  "user": "BROWSERSTACK_USERNAME",
-  "key": "BROWSERSTACK_ACCESS_KEY",
+  "user": "rajchahal_T79r2R",
+  "key": "T1gFF42XxLeqG7p9jJLd",
 
   "capabilities": {
     "build": "browserstack-build-1",
